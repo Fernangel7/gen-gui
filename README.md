@@ -1,6 +1,6 @@
 # gen-gui
 
-✨ gen-gui — Interfaz mínima para automatizar acciones
+gen-gui — Interfaz mínima para automatizar acciones
 
 Gen GUI es una pequeña aplicación de escritorio para automatizar acciones simples (mover el mouse y teclear texto) mediante una interfaz gráfica amigable construida con CustomTkinter y PyAutoGUI.
 
